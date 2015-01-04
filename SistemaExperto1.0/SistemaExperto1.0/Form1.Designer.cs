@@ -28,9 +28,21 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.BorderStyle = MetroFramework.Forms.MetroFormBorderStyle.FixedSingle;
+            this.ClientSize = new System.Drawing.Size(549, 293);
+            this.Name = "Form1";
+            this.Style = MetroFramework.MetroColorStyle.Green;
+            this.Text = "Sistema Experto para DFA";
+            this.Theme = MetroFramework.MetroThemeStyle.Dark;
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ResumeLayout(false);
+
         }
 
         #endregion

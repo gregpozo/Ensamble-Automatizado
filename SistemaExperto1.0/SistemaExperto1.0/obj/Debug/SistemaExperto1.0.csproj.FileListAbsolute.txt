@@ -1,1 +1,12 @@
 c:\users\gregory\documents\visual studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\bin\Debug\SistemaExperto1.0.exe.config
+c:\users\gregory\documents\visual studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\bin\Debug\SistemaExperto1.0.exe
+c:\users\gregory\documents\visual studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\bin\Debug\SistemaExperto1.0.pdb
+c:\users\gregory\documents\visual studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\bin\Debug\MetroFramework.Design.dll
+c:\users\gregory\documents\visual studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\bin\Debug\MetroFramework.dll
+c:\users\gregory\documents\visual studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\bin\Debug\MetroFramework.Fonts.dll
+c:\users\gregory\documents\visual studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\obj\Debug\SistemaExperto1.0.csprojResolveAssemblyReference.cache
+c:\users\gregory\documents\visual studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\obj\Debug\SistemaExperto1._0.Form1.resources
+c:\users\gregory\documents\visual studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\obj\Debug\SistemaExperto1._0.Properties.Resources.resources
+c:\users\gregory\documents\visual studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\obj\Debug\SistemaExperto1.0.csproj.GenerateResource.Cache
+c:\users\gregory\documents\visual studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\obj\Debug\SistemaExperto1.0.exe
+c:\users\gregory\documents\visual studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\obj\Debug\SistemaExperto1.0.pdb
