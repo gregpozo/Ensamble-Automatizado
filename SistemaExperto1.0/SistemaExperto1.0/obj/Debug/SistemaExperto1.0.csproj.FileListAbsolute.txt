@@ -10,3 +10,5 @@ c:\users\gregory\documents\visual studio 2012\Projects\SistemaExperto1.0\Sistema
 c:\users\gregory\documents\visual studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\obj\Debug\SistemaExperto1.0.csproj.GenerateResource.Cache
 c:\users\gregory\documents\visual studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\obj\Debug\SistemaExperto1.0.exe
 c:\users\gregory\documents\visual studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\obj\Debug\SistemaExperto1.0.pdb
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\bin\Debug\Database1.mdf
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\SistemaExperto1.0\SistemaExperto1.0\bin\Debug\Database1_log.ldf
